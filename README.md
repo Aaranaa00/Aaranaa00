@@ -29,8 +29,9 @@
 
 ---
 
-## 📌 Proyectos (Próximamente)  
-Actualmente, estoy trabajando en pequeños proyectos y ejercicios para mejorar mis habilidades. ¡Pronto compartiré más!  
+## 📌 Proyectos  
+- 🎲 [**Simulación de Dominó**](https://github.com/Aaranaa00/domino-game) en Python  
+- ✨ Más proyectos próximamente  
 
 ---
 
