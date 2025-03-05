@@ -51,8 +51,9 @@
 ---
 
 ## 📌 Proyectos  
-- 🎲 [**Simulación de Dominó**](https://github.com/Aaranaa00/domino-game) en Python  
-- ✨ Más proyectos próximamente  
+- 🎲 <a href="https://github.com/Aaranaa00/domino-game" target="_blank"><b>Simulación de Dominó</b></a> en Python  
+- 🧩 <a href="https://github.com/Aaranaa00/sliding-puzzle-game" target="_blank"><b>Puzle Deslizante</b></a> en Python  
+- ✨ Más proyectos próximamente 
 
 ---
 
@@ -64,5 +65,6 @@
     <img src="https://img.shields.io/badge/InfoJobs-0064FF?style=for-the-badge&logo=infojobs&logoColor=white">
 </a>
  
+---
 
 ⭐ ¡Gracias por visitar mi perfil! Estoy en constante aprendizaje y listo para mejorar cada día. 🚀
