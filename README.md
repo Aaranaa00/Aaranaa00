@@ -52,7 +52,7 @@
 
 ## 📌 Proyectos  
 - 🎲 <a href="https://github.com/Aaranaa00/domino-game" target="_blank"><b>Simulación de Dominó</b></a> en Python  
-- 🧩 <a href="https://github.com/Aaranaa00/sliding-puzzle-game" target="_blank"><b>Puzle Deslizante</b></a> en Python  
+- 🧩 <a href="https://github.com/Aaranaa00/sliding-puzzle-game" target="_blank"><b>Puzzle Deslizante</b></a> en Python  
 - ✨ Más proyectos próximamente 
 
 ---
